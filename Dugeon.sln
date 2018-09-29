@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dugeon", "Dugeon.csproj", "{8294E54B-9A35-EA75-6A32-D546845AD956}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dugeon.Plugins", "Dugeon.Plugins.csproj", "{4CA21211-025A-8048-11EC-AA372494AC2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dugeon.Editor", "Dugeon.Editor.csproj", "{C6065ABD-E519-6051-2517-AA9CA0FB27D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8294E54B-9A35-EA75-6A32-D546845AD956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8294E54B-9A35-EA75-6A32-D546845AD956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8294E54B-9A35-EA75-6A32-D546845AD956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8294E54B-9A35-EA75-6A32-D546845AD956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CA21211-025A-8048-11EC-AA372494AC2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA21211-025A-8048-11EC-AA372494AC2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA21211-025A-8048-11EC-AA372494AC2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA21211-025A-8048-11EC-AA372494AC2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6065ABD-E519-6051-2517-AA9CA0FB27D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6065ABD-E519-6051-2517-AA9CA0FB27D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6065ABD-E519-6051-2517-AA9CA0FB27D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6065ABD-E519-6051-2517-AA9CA0FB27D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
